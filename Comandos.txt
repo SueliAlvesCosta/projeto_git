@@ -1,0 +1,11 @@
+git init
+git add -a "comandos"
+git commit -m comandos
+git user.name
+git checkout
+git checkout -b comandos
+git checkout -b outra-branch 
+git branch 
+git log
+
+https://spiny-beak-bd8.notion.site/GitHub-Reposit-rios-remotos-c923528b929b4cdf90c79423e1cc20eb

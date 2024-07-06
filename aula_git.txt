@@ -1,0 +1,7 @@
+Olá mundo!
+Meu nome é Sueli
+Nasci em Goiás
+Moro do Distrito Federal
+
+git checkout
+git merge nova-branch
